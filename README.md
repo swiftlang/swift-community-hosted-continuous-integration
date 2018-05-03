@@ -8,6 +8,7 @@
    * Ubuntu 16.04
    * Ubuntu 16.04 for TensorFlow
    * PPC64LE for Ubuntu 16.04 
+   * Android
 
 ## Add Nodes
 
