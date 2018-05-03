@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "Ron Olson",
+    "email": "tachoknight@gmail.com",
+    "company": ""
+  },
+  "node": {
+      "platform": "x86_64",
+      "os_version": "Fedora 27"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - Fedora Linux x86_64 (master)",
+      "branch": "master",
+      "preset": "buildbot_linux,no_test"
+    }
+  ]
+}

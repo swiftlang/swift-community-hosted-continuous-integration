@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "Full name",
+    "email": "Email address",
+    "company": "Company name (optional)"
+  },
+  "node": {
+      "platform": "Platform name",
+      "os_version": "Operating system version"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - <PLATFORM> (Tools <TOOLS_CONFIG>, Stdlib <STDLIB_CONFIG>) (<BRANCH>))",
+      "branch": "Swift branch",
+      "preset": "Build preset from utils/build-preset.ini"
+    }
+  ]
+}

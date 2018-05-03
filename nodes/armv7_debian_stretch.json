@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "William Dillon",
+    "email": "william@housedillon.com",
+    "company": "Housedillon Inc."
+  },
+  "node": {
+      "platform": "ARMv7",
+      "os_version": "Debian 9.1"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - ARMv7 (Tools RA, Stdlib RD) (master)",
+      "branch": "master",
+      "preset": "buildbot_incremental,tools=RA,stdlib=RD,build"
+    }
+  ]
+}
