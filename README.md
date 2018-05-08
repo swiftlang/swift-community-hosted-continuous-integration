@@ -5,6 +5,7 @@
 ## Current List of Platforms
    * Fedora
    * ARMv7 for Debian "Stretch"
+   * Ubuntu 16.04
 
 ## Add Nodes
 
