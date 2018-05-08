@@ -10,7 +10,7 @@
   },
   "jobs": [
     {
-      "display_name": "Swift - Ubuntu Linux x86_64 (master)",
+      "display_name": "Swift - Ubuntu 16.04 Linux x86_64 (master)",
       "branch": "master",
       "preset": "buildbot_linux_1604"
     }
