@@ -3,7 +3,7 @@
 [Swift Community-Hosted CI](https://ci-external.swift.org) is an extension of Swift CI that allows the community to add additional platforms. Community members can volunteer to host new platforms and they are responsible for maintaining the host nodes. The maintainer will provide a build preset which will be periodically built on the node. This allows the Swift community to see the impact of changes on a greater range of platforms.
 
 ## Current List of Platforms
-   * Fedora
+   * Fedora 27
    * ARMv7 for Debian "Stretch"
    * Ubuntu 16.04
 
