@@ -1,0 +1,23 @@
+{
+  "contact": {
+    "name": "Daniel R",
+    "email": "danramteke@gmail.com",
+    "company": ""
+  },
+  "node": {
+      "platform": "x86_64",
+      "os_version": "Ubuntu 18.04"
+  },
+  "jobs": [
+    {
+      "display_name": "Ubuntu 18.04 x86_64 (master)",
+      "branch": "master",
+      "preset": "buildbot_linux_1804"
+    },
+    {
+      "display_name": "Ubuntu 18.04 x86_64 (4.1)",
+      "branch": "swift-4.1-branch",
+      "preset": "buildbot_linux_1804"
+    }
+  ]
+}
