@@ -10,7 +10,7 @@
   },
   "jobs": [
     {
-      "display_name": "Swift - ppc64le (Tools RA, Stdlib RD) swift-4.1-branch)",
+      "display_name": "Swift - ppc64le (Tools RA, Stdlib RD) (swift-4.1-branch)",
       "branch": "swift-4.1-branch",
       "preset": "buildbot,tools=RA,stdlib=RD,test=no"
     }
