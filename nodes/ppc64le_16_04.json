@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "Atul Sowani",
+    "email": "sowania@us.ibm.com",
+    "company": "IBM"
+  },
+  "node": {
+      "platform": "ppc64le",
+      "os_version": "Ubuntu 16.04"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - ppc64le (Tools RA, Stdlib RD) swift-4.1-branch)",
+      "branch": "swift-4.1-branch",
+      "preset": "buildbot,tools=RA,stdlib=RD,test=no"
+    }
+  ]
+}
