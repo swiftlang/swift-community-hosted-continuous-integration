@@ -12,7 +12,7 @@
     {
       "display_name": "Swift - ppc64le (Tools RA, Stdlib RD) (swift-4.1-branch)",
       "branch": "swift-4.1-branch",
-      "preset": "buildbot_linux,tools=RA,stdlib=RD"
+      "preset": "buildbot_incremental_linux,tools=RA,stdlib=RD"
     }
   ]
 }
