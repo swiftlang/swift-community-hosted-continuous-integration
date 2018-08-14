@@ -10,6 +10,7 @@
    * PPC64LE for Ubuntu 16.04 
    * AArch64 for Ubuntu 16.04
    * Android
+   * macOS 10.13 for TensorFlow
 
 ## Add Nodes
 
