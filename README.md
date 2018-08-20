@@ -11,6 +11,7 @@
    * AArch64 for Ubuntu 16.04
    * Android
    * macOS 10.13 for TensorFlow
+   * Ubuntu 16.04 with a GPU for TensorFlow 
 
 ## Add Nodes
 
