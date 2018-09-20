@@ -1,7 +1,7 @@
 {
   "contact": {
-    "name": "Atul Sowani",
-    "email": "sowania@us.ibm.com",
+    "name": "Amitkumar Ghatwal",
+    "email": "ghatwala@us.ibm.com",
     "company": "IBM"
   },
   "node": {
@@ -9,11 +9,6 @@
       "os_version": "Ubuntu 16.04"
   },
   "jobs": [
-    {
-      "display_name": "Swift - ppc64le (Tools RA, Stdlib RD) (swift-4.1-branch)",
-      "branch": "swift-4.1-branch",
-      "preset": "buildbot_incremental_linux"
-    },
     {
       "display_name": "Swift - ppc64le (Tools RA, Stdlib RD) (swift-4.2-branch)",
       "branch": "swift-4.2-branch",
