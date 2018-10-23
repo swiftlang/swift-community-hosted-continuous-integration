@@ -12,7 +12,8 @@
     {
       "display_name": "Swift for TensorFlow - MacOS High Sierra x86_64 (tensorflow)",
       "branch": "tensorflow",
-      "preset": "tensorflow_test"
+      "preset": "tensorflow_test",
+      "email_notifications": ["tf-swift-team+apple-ci@google.com"]
     }
   ]
 }

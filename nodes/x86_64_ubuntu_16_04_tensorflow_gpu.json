@@ -12,7 +12,8 @@
     {
       "display_name": "Swift for TensorFlow - Ubuntu 16.04 Linux x86_64 with GPU (tensorflow)",
       "branch": "tensorflow",
-      "preset": "tensorflow_test,gpu"
+      "preset": "tensorflow_test,gpu",
+      "email_notifications": ["tf-swift-team+apple-ci@google.com"]
     }
   ]
 }
