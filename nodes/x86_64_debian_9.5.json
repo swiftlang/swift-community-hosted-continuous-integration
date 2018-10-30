@@ -1,0 +1,17 @@
+{
+  "contact": {
+    "name": "François Lamboley",
+    "email": "fload@me.com"
+  },
+  "node": {
+      "platform": "Linux x86_64",
+      "os_version": "Debian 9.5"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - Debian 9.5 Linux x86_64 (master)",
+      "branch": "master",
+      "preset": "buildbot_incremental_linux"
+    }
+  ]
+}
