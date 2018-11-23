@@ -15,14 +15,14 @@
       "preset": "buildbot_linux,no_test"
     },
     {
-      "display_name": "Swift - Ubuntu 16.04 Linux aarch64 (swift-4.1-branch)",
-      "branch": "swift-4.1-branch",
-      "preset": "buildbot_linux,no_test"
-    },
-    {
       "display_name": "Swift - Ubuntu 16.04 Linux aarch64 (swift-4.2-branch)",
       "branch": "swift-4.2-branch",
       "preset": "buildbot_linux,no_test"
-    }
+    },
+    {
+      "display_name": "Swift - Ubuntu 16.04 Linux aarch64 (swift-5.0-branch)",
+      "branch": "swift-5.0-branch",
+      "preset": "buildbot_linux,no_test"
+    },
   ]
 }
