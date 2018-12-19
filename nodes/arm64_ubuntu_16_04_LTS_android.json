@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "Andrew Breckenridge",
+    "email": "swiftci@fb.com",
+    "company": "Facebook, Inc."
+  },
+  "node": {
+      "platform": "Android arm64",
+      "os_version": "Ubuntu 16.04 LTS"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - Android (Tools RA, Stdlib RD) (master)",
+      "branch": "master",
+      "preset": "buildbot_linux_crosscompile_android,tools=RA,stdlib=RD,build,aarch64"
+    }
+  ]
+}
