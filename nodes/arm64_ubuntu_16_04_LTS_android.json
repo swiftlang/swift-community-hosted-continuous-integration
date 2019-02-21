@@ -10,7 +10,7 @@
   },
   "jobs": [
     {
-      "display_name": "Swift - Android (Tools RA, Stdlib RD) (master)",
+      "display_name": "Swift - Android (arm64) (Tools RA, Stdlib RD) (master)",
       "branch": "master",
       "preset": "buildbot_linux_crosscompile_android,tools=RA,stdlib=RD,build,aarch64"
     }
