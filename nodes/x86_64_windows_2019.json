@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "Daniel Rodríguez Troitiño",
+    "email": "swiftci@fb.com",
+    "company": "Facebook, Inc."
+  },
+  "node": {
+      "platform": "Windows x86_64",
+      "os_version": "Windows 2019"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - Windows (x86_64) (master)",
+      "branch": "master",
+      "preset": ""
+    }
+  ]
+}
