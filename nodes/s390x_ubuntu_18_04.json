@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "Lei Zhang",
+    "email": "lzhang@ca.ibm.com",
+    "company": "IBM"
+  },
+  "node": {
+      "platform": "s390x",
+      "os_version": "Ubuntu 18.04"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - s390x (Tools RA, Stdlib RD, No test suites) (master)",
+      "branch": "master",
+      "preset": "buildbot_linux,no_test"
+    }
+  ]
+}
