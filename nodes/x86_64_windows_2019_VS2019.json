@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "Saleem Abdulrasool",
+    "email": "abdulras@google.com",
+    "company": "Google, Inc."
+  },
+  "node": {
+      "platform": "Windows x86_64",
+      "os_version": "Windows 2019"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - Windows (x86_64) (master)",
+      "branch": "master",
+      "preset": ""
+    }
+  ]
+}
