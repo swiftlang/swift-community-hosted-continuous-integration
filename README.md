@@ -19,7 +19,7 @@
 1. Create a pull request 
     * Add new JSON file under nodes directory -  nodes/<platform>_<os_version>.json
 
-```
+```json
 {
    "contact":{
       "name":"Full name",
@@ -43,7 +43,7 @@
 Example:
 File name: macOS_10_13.json
 
-```
+```json
 {
    "contact":{
       "name":"Mishal Shah",
