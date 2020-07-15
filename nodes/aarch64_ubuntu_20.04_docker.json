@@ -1,0 +1,18 @@
+{
+    "contact": {
+      "name": "Neil Jones",
+      "email": "neil@swift-arm.com",
+      "company": "FutureJones"
+    },
+    "node": {
+        "platform": "aarch64",
+        "os_version": "Ubuntu 20.04"
+    },
+    "jobs": [
+      {
+        "display_name": "Swift - Ubuntu 20.04 Linux aarch64 (master)",
+        "branch": "master",
+        "preset": "buildbot_linux,no_test"
+      }
+    ]
+  }
