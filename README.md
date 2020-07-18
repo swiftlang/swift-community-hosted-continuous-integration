@@ -7,8 +7,12 @@
    * ARMv7 for Debian "Stretch"
    * Ubuntu 16.04
    * Ubuntu 16.04 for TensorFlow
-   * PPC64LE for Ubuntu 16.04 
-   * AArch64 for Ubuntu 16.04
+   * PPC64LE for Ubuntu 16.04
+   * AArch64 for Amazon Linux 2
+   * AArch64 for CentOS 8
+   * AArch64 for Debian 10
+   * AArch64 for Ubuntu 18.04
+   * AArch64 for Ubuntu 20.04
    * Android
    * macOS 10.13 for TensorFlow
    * Ubuntu 16.04 with a GPU for TensorFlow
