@@ -1,16 +1,16 @@
 {
   "contact": {
-    "name": "Richard Wei",
+    "name": "Swift for TensorFlow team",
     "email": "tf-swift-team+apple-ci@google.com",
     "company": "Google"
   },
   "node": {
       "platform": "x86_64",
-      "os_version": "Ubuntu 16.04"
+      "os_version": "Ubuntu 18.04"
   },
   "jobs": [
     {
-      "display_name": "Swift for TensorFlow - Ubuntu 16.04 Linux x86_64 with GPU (tensorflow)",
+      "display_name": "Swift for TensorFlow - Ubuntu 18.04 Linux x86_64 with GPU (tensorflow)",
       "branch": "tensorflow",
       "preset": "tensorflow_test,gpu",
       "email_notifications": ["tf-swift-team+apple-ci@google.com"]
