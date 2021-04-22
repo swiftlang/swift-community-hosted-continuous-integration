@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "Neil Jones",
+    "email": "neil@swift-arm.com",
+    "company": "FutureJones"
+  },
+  "node": {
+      "platform": "aarch64",
+      "os_version": "Debian 10"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - Debian 10 Linux aarch64 (main)",
+      "branch": "main",
+      "preset": "buildbot_linux,no_test"
+    }
+  ]
+}
