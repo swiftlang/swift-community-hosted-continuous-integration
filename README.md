@@ -13,7 +13,7 @@
    * AArch64 for Ubuntu 20.04
    * Android
    * macOS 10.13 for TensorFlow
-   * Debian 9.5
+   * Debian 10
 
 ## Add Nodes
 
