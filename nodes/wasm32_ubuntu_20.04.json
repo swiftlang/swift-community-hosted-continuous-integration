@@ -1,0 +1,19 @@
+{
+  "contact": {
+    "name": "SwiftWasm team",
+    "email": "hello@swiftwasm.org",
+    "company": ""
+  },
+  "node": {
+      "platform": "WebAssembly (wasm32)",
+      "os_version": "Ubuntu 20.04"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - WebAssembly (wasm32) (Tools RA, Stdlib RA) (main)",
+      "branch": "main",
+      "preset": "buildbot_incremental_linux_crosscompile_wasm",
+      "email_notifications": ["apple-ci@swiftwasm.org"]
+    }
+  ]
+}
