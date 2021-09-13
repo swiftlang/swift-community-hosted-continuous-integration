@@ -14,6 +14,7 @@
    * Android
    * macOS 10.13 for TensorFlow
    * Debian 9.5
+   * WebAssembly on Ubuntu 20.04
 
 ## Add Nodes
 
