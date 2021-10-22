@@ -14,6 +14,8 @@
    * Android
    * macOS 10.13 for TensorFlow
    * Debian 10
+   * wasm32 cross-compiled from Ubuntu 20.04
+
 
 ## Add Nodes
 
