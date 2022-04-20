@@ -9,8 +9,6 @@
    * Ubuntu 16.04
    * Ubuntu 18.04 for TensorFlow
    * PPC64LE for Ubuntu 16.04
-   * AArch64 for Ubuntu 18.04
-   * AArch64 for Ubuntu 20.04
    * Android
    * macOS 10.13 for TensorFlow
    * Debian 10
