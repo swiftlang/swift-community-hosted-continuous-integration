@@ -12,6 +12,7 @@
    * Android
    * macOS 10.13 for TensorFlow
    * Debian 10
+   * Debian 11/Bullseye
    * wasm32 cross-compiled from Ubuntu 20.04
 
 
