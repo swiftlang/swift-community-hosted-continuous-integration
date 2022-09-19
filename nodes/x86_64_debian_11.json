@@ -1,0 +1,17 @@
+{
+  "contact": {
+    "name": "Dennis Schafroth",
+    "email": "dennis@schafroth.com"
+  },
+  "node": {
+      "platform": "Linux x86_64",
+      "os_version": "Debian 11"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - Debian 11 Linux x86_64 (main)",
+      "branch": "main",
+      "preset": "buildbot_incremental_linux"
+    }
+  ]
+}
