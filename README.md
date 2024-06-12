@@ -86,4 +86,4 @@ The node maintainer is responsible for updating the OS with security patches, ke
 
 ## Contributing
 
-The Swift for Visual Studio Code extension is a community driven project, developed by the amazing Swift community. Any kind of contribution is appreciated, including code, tests and documentation. For more details see [CONTRIBUTING.md](CONTRIBUTING.md).
+The Swift Community-Hosted Continuous Integration is a community driven project, developed by the amazing Swift community. Any kind of contribution is appreciated, including code, tests and documentation. For more details see [CONTRIBUTING.md](CONTRIBUTING.md).
