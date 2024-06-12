@@ -83,3 +83,7 @@ File name: macOS_10_13.json
 ## Maintaining Node
 
 The node maintainer is responsible for updating the OS with security patches, keeping the host online, and installing any required packages to build the Swift compiler on the node. In the event that the host node becomes unaccessible or offline, the maintainer is responsible for bringing the node online within two weeks of being notified. Otherwise, an un-maintained node may be removed from the CI.
+
+## Contributing
+
+The Swift for Visual Studio Code extension is a community driven project, developed by the amazing Swift community. Any kind of contribution is appreciated, including code, tests and documentation. For more details see [CONTRIBUTING.md](CONTRIBUTING.md).
