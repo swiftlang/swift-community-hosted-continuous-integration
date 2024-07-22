@@ -66,7 +66,7 @@ File name: macOS_10_13.json
 
 2. Verify preset builds on the server:
     * Clone Swift 
-      `git clone https://github.com/apple/swift.git`
+      `git clone https://github.com/swiftlang/swift.git`
     * Clone all other repositories 
       `./swift/utils/update-checkout --scheme <BRANCH> --clone`
     * Build + Test
