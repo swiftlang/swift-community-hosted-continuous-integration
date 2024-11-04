@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "name": "Marc Prud'hommeaux",
+    "email": "swiftci@skip.tools",
+    "company": "Skip.tools"
+  },
+  "node": {
+      "platform": "Android aarch64",
+      "os_version": "Ubuntu 22.04"
+  },
+  "jobs": [
+    {
+      "display_name": "Swift - Android (arm64) (Tools RA, Stdlib RD) (main)",
+      "branch": "main",
+      "preset": "buildbot_linux_crosscompile_android,tools=RA,stdlib=RD,build,aarch64"
+    }
+  ]
+}
