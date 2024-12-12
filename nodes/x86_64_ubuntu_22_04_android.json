@@ -12,7 +12,7 @@
     {
       "display_name": "Swift - Android (Tools RA, Stdlib RD) (main)",
       "branch": "main",
-      "preset": "buildbot_linux_crosscompile_android,tools=RA,stdlib=RD,build"
+      "preset": "buildbot_linux_crosscompile_android,tools=RA,stdlib=RD,build,x86_64"
     }
   ]
 }
