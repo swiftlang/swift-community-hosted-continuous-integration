@@ -6,7 +6,7 @@
   },
   "node": {
       "platform": "Android x86_64",
-      "os_version": "Ubuntu 22.04"
+      "os_version": "Ubuntu 24.04"
   },
   "jobs": [
     {
